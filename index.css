@@ -1,0 +1,42 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.bluecolor {
+    color: blueviolet;
+}
+
+#code {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 42px;
+    color: rgb(218, 95, 18);
+}
+
+.padding {
+    padding: 24px 0 0 0;
+}
+
+.nav {
+    background-color: rgb(237, 198, 92);
+    box-shadow: 0px 6px 0 0 rgb(207, 207, 207);
+    padding: 8px 32px;
+    text-align: center;
+    margin: 0;
+    position: sticky;
+    top: 0;
+}
+
+.button {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.colorbutton {
+    color: white;
+    background-color: rgb(120, 26, 187);
+    border: 0;
+    padding: 12px;
+    border-radius: 8px;
+    margin-top: 8px;
+}
