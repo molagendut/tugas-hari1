@@ -4,7 +4,7 @@
 }
 
 .bluecolor {
-    color: blueviolet;
+    color: rgb(130, 130, 130);
 }
 
 #code {
@@ -39,4 +39,5 @@
     padding: 12px;
     border-radius: 8px;
     margin-top: 8px;
+    cursor: pointer;
 }
